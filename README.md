@@ -1,6 +1,8 @@
 PicView
 =====
 <div dir="rtl">
+    نسخه <a href="https://jitpack.io/#shojaeialireza/PicViewLibrary"><img src="https://jitpack.io/v/shojaeialireza/PicViewLibrary.svg"/></a>
+    <br><br>
 این کتابخانه استفاده شده در دوره آموزشی ساخت برنامه PicMaker است.
 
 با استفاده از این کتابخانه سه View در اختیار دارید
@@ -59,7 +61,7 @@ allprojects {
 
 ```gradle
 dependencies {
-    implementation 'com.github.shojaeialireza:PicViewLibrary:0.1.0'
+    implementation 'com.github.shojaeialireza:PicViewLibrary:0.3.0'
 }
 ```
 </div>
